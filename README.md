@@ -65,6 +65,12 @@ Each image is resized to `315×315` and normalized to `[0, 1]`.
 
 ---
 
+## 🔗 Pretrained Model
+You can download the trained model directly from Kaggle:
+[**Half-UNet Brain Tumor Classification**](https://www.kaggle.com/models/chaitanyaparate/half-unet-brain-tumor-classification)
+
+---
+
 ## 🔬 Research Contribution
 
 This implementation demonstrates that:
