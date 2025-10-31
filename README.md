@@ -101,7 +101,6 @@ torch
 torchvision
 albumentations
 tqdm
-matplotlib
 opencv-python
 ```
 
