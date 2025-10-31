@@ -1,0 +1,12 @@
+# Core Deep Learning Libraries
+torch==2.2.0
+torchvision==0.17.0
+
+# Data Handling and Visualization
+numpy==1.26.4
+tqdm==4.66.4
+Pillow==10.3.0
+
+# Image Processing and Augmentation
+albumentations==1.4.4
+opencv-python==4.10.0.84
