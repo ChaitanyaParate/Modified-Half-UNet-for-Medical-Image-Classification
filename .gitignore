@@ -1,0 +1,6 @@
+__pycache__
+Data
+half_unet_brain_tumor.pth
+my_checkpoint.pth.tar
+test_image.jpg
+predict.py
